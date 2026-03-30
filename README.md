@@ -57,7 +57,7 @@ Data Quality: Missing values visualization
 
 🔗 Project Video
 
-(Add your LinkedIn video link here)
+(https://www.linkedin.com/feed/update/urn:li:activity:7444337700205342720/)
 
 🙌 Feedback
 
