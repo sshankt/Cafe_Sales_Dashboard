@@ -53,8 +53,7 @@ Operational View: Sales by location (In-store vs Takeaway)
 Customer Behavior: Payment method distribution
 Data Quality: Missing values visualization
 
-📸 Dashboard Preview
-https://github.com/sshankt/Cafe_Sales_Dashboard/blob/main/image.png
+![ Dashboard Preview](https://github.com/sshankt/Cafe_Sales_Dashboard/blob/main/image.png)
 
 🔗 Project Video
 
